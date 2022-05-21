@@ -3,7 +3,7 @@
     "descricao":"Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem":"TODO"
+      "imagem":"https://network.grupoabril.com.br/wp-content/uploads/sites/4/2016/12/800px-maracanc3a3_stadium_in_rio_de_janeiro.jpg"
     },
     "mandante":{
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao":"Eliminatórias Copa 2022",
     "local": {
       "nome": "Itaquerão",
-      "imagem":"TODO"
+      "imagem":"https://sustentarqui.com.br/wp-content/uploads/2014/06/itaquerao.jpg"
     },
     "mandante":{
       "nome": "Japão",
@@ -37,7 +37,7 @@
     "descricao":"Eliminatórias Copa 2022",
     "local": {
       "nome": "Morumbi",
-      "imagem":"TODO"
+      "imagem":"https://www.lance.com.br/files/article_main/uploads/2021/10/05/615ca5e80bc6d.jpeg"
     },
     "mandante":{
       "nome": "Alemanha",
